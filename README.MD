@@ -4,11 +4,6 @@
 
 This is a series of excercises from the FSND course offered by Udacity to practice Javascript to developed a cat clicker application.
 
-Write a C++ or JAVA program to decipher it. Submit the following:
-1. Source code
-2. A screen shot showing the execution of the program and the correct offset value
-3. The plaintext
-
 ### Necessary Resources
 - A web browser
 - An text editor
