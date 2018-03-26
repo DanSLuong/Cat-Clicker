@@ -2,7 +2,7 @@
 
 ### Project Info
 
-This is a series of excercises from the FSND course offered by Udacity to practice Javascript to developed a cat clicker application.
+This is a series of excercises from the FSND course offered by ```Udacity``` to practice Javascript to developed a cat clicker application.
 
 ### Necessary Resources
 - A web browser
